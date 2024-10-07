@@ -10,10 +10,11 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-import com.train.org.TestNG_L4J_ER.BrowserLaunch;
+
 
 import UTILITIES.Utilities;
 import io.github.bonigarcia.wdm.WebDriverManager;
+import sm.Clone_TSTNG_ER_jnkn.BrowserLaunch;
 
 public class LogTestClass {
 	public WebDriver driver;
