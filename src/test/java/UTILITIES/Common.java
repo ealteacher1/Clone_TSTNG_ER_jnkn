@@ -38,7 +38,7 @@ public class Common {
     public ExtentReports reports = new ExtentReports(); //reports
     //public ExtentSparkReporter htmlReporter = new ExtentSparkReporter("RESULTS/Jenkins_ContentReport"+ System.currentTimeMillis()+ ".html");//htmlreporters
     
-    public ExtentSparkReporter htmlReporter=new ExtentSparkReporter("RESULTS/Jenkins_ContentReport.html");
+    public ExtentSparkReporter htmlReporter=new ExtentSparkReporter("RESULTS/Jenkins_ExtentReport.html");
     public ExtentTest test;
 		  
 
