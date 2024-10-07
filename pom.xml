@@ -111,16 +111,7 @@
 
 
 
-  	<dependency>
-  		<groupId>com.train.org</groupId>
-  		<artifactId>TestNG_L4J_ER</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>jnkn</groupId>
-  		<artifactId>A_Jenkins_Students</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+ 
   </dependencies>
 
   <build>
